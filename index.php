@@ -11,7 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-         echo 'laxman';
+         kjghfghhjkl;
+		 echo date('Y-m-d');
         // put your code here
         ?>
     </body>
